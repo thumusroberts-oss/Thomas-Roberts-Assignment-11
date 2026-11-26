@@ -1,4 +1,4 @@
 # Thomas Roberts
-My Favorite Quote
-Human beings are strong because we can change ourselves
+My Favorite Quote <br>
+Human beings are strong because we can change ourselves <br>
 Saitama
